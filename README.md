@@ -8,7 +8,7 @@ Jeu développé avec Python inspiré du jeu du pendu. Le but du jeu est de devin
 
 ## Aperçu 
 
-![description](images/capture.png)
+![description](image/capture.png)
 
 ## Concepts utilisés
 
